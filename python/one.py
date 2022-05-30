@@ -1,3 +1,3 @@
 a=2
-b=4
+b=40
 print(f'result',a*b)
